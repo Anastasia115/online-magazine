@@ -1,0 +1,128 @@
+header{
+  background-color:#b3b681;
+  text-align: center;
+  font-family: 'Kalam', cursive;
+}
+header img{
+  align-content: center;
+  border-radius: 4px;
+  padding: 5px;
+  width: 200px;
+  float:none;
+}
+.footer {
+   position:absolute;
+   margin-left: 0%;
+   margin-bottom: 0%;
+   width: 100%;
+   background-color:#b3b681;
+   color: white;
+   text-align: center;
+   overflow: hidden;
+}
+body{
+    background-color:#f4e2ee;
+    margin: 0px;
+  }
+  nav{
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+  nav a{
+    text-decoration:solid;
+     color:#b3b681;
+     font-size:30pt;
+     font-family: 'Merienda', cursive;
+     margin-left: 0%;
+  }
+  nav a:hover{
+    text-decoration:underline;
+  }
+
+ body img{
+
+    align-content: center;
+}
+h1{
+  text-align: center;
+  text-decoration: rgb(0, 0, 0);
+  font-size: 40px;
+  font-family: 'Merienda', cursive;
+}
+h2{
+  text-align:right;
+  text-decoration: rgb(0, 0, 0);
+  font-size: 38px;
+  font-style: italic;
+  font-family: 'Merienda', cursive;
+}
+h3{
+  text-align: center;
+  text-decoration: rgb(0, 0, 0);
+  font-size: 25px;
+  font-style: normal;
+  font-family: 'Merienda',cursive;
+  margin-left: 30pt;
+  margin-right: 30pt;
+}
+h4{
+  text-align: center;
+  color: #b3b681;
+  font-size: 30px;
+  font-style: normal;
+  font-family: 'Kalam', cursive;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+
+aside p{
+  text-align: center;
+  text-decoration: rgb(0, 0, 0);
+  font-size: 30px;
+  font-family: 'Kalam', cursive;
+}
+aside{
+  width: 50%;
+  padding-left:15px;
+  margin-left: 15px;
+  float: right;
+  font-style: normal;
+  background-color: rgb(179, 182, 129, .6);
+  font-family: 'Kalam', cursive;
+}
+
+p{
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Kalam', cursive;
+}
+div{
+  background-color:#7d8029 ;
+  width:300px;
+  padding:50 px;
+  margin: 20px;
+  text-align:center;
+  color: white;
+  float:right;
+ font-size: 30px;
+}
+div:hover{
+  text-decoration:underline;
+}
+article{
+  width: 100%;
+  font-style: normal;
+  background-color: rgb(179, 182, 129, .6);
+  font-family: 'Kalam', cursive;
+}
+article p{
+  text-align: center;
+  text-decoration: rgb(0, 0, 0);
+  font-size: 30px;
+  font-family: 'Kalam', cursive;
+}
+h4.solid {outline-style: solid;}
